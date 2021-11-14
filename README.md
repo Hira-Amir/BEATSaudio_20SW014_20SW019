@@ -5,7 +5,7 @@ BEATSaudio is a GUI based Music player created using Java programming language
 
 ## Language and Tools
 - Java
-- Vs Code 
+- Eclipse 
 
 ## Developers
 - Hira Amir [GitHub Profile ](https://github.com/Hira-Amir)
